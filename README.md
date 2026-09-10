@@ -14,7 +14,8 @@ This is a repo for the python course in PUCP
 4. Volver al futuro
 
 # Actors
-1. Sandra Bullock
-2. Julia Roberts
-3. Robert Pattinson 
-4. Cameron Diaz
+1. Al Pacino
+2. Robert De Niro
+3. Denzel w.
+4. Di Caprio
+
