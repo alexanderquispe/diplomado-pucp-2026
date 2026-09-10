@@ -19,3 +19,8 @@ This is a repo for the python course in PUCP
 3. Denzel w.
 4. Di Caprio
 
+# Carreras
+1. Economia
+2. Antropologia
+3. Derecho
+4. Psicologia
