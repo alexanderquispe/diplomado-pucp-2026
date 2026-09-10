@@ -24,3 +24,6 @@ This is a repo for the python course in PUCP
 2. Antropologia
 3. Derecho
 4. Psicologia
+5. Historia
+6. Gestion
+7. RRII
