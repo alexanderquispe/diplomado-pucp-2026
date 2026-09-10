@@ -27,3 +27,4 @@ This is a repo for the python course in PUCP
 5. Historia
 6. Gestion
 7. RRII
+8. Literatura
